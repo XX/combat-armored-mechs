@@ -1,0 +1,19 @@
+[book]
+title = "Боевые роботы"
+description = "Библия мира: вселенная боёв с применением роботов в недалёком будущем"
+authors = ["XX"]
+language = "ru"
+src = "src"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+smart-punctuation = true
+no-section-label = false
+
+[output.html.search]
+limit-results = 20
+
+[output.html.fold]
+enable = true
+level = 1
