@@ -1,6 +1,6 @@
 [book]
-title = "Боевые роботы"
-description = "Описание мира боевых роботов"
+title = "Боевые бронемехи"
+description = "Описание мира боевых мехов и роботов"
 authors = ["XX"]
 language = "ru"
 src = "src"
@@ -12,7 +12,7 @@ smart-punctuation = true
 no-section-label = false
 
 [output.html.search]
-limit-results = 20
+limit-results = 50
 
 [output.html.fold]
 enable = true

@@ -19,10 +19,10 @@
 
 - [Технологии](tehnologii.md)
 
-# Боевые роботы
+# Боевые мехи и роботы
 
-- [Боевые роботы](boevye-roboty.md)
-- [Пилоты ББР](piloty-bbr.md)
+- [Боевые мехи и роботы](boevye-roboty.md)
+- [Пилоты ББМ](piloty-bbm.md)
 - [Вооружение](vooruzhenie.md)
 - [Особенности войны](osobennosti-voyny.md)
 
